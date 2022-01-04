@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avalonia.MusicStore", "Avalonia.MusicStore\Avalonia.MusicStore.csproj", "{FAD8CB93-34A4-4393-BF84-33CCA22AD063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAD8CB93-34A4-4393-BF84-33CCA22AD063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD8CB93-34A4-4393-BF84-33CCA22AD063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD8CB93-34A4-4393-BF84-33CCA22AD063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD8CB93-34A4-4393-BF84-33CCA22AD063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1F3ADE7-5176-410E-A6A3-EEEE3FCD3FAA}
+	EndGlobalSection
+EndGlobal
